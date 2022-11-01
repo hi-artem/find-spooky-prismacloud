@@ -1,4 +1,4 @@
-# find-openssl-prismacloud
+# find-spookyssl-prismacloudcompute
 
 ## Why do you need this?
 
